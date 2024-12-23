@@ -10,7 +10,7 @@
 - 🤖 Developed a **Speech Emotion Recognition** system using Deep Learning (CNN + LSTM), classifying emotions with high accuracy.
 
 - 💬 Ask me about **Machine Learning, Frontend Development, SQL**
-- 📊 Proficient in **Data Analytics with Power BI certification**
+- 📊 Proficient in **Data Analytics with expertise in Power BI**
 - 🌟 Let’s build something amazing together!
 - 📫 How to reach me **saikolupoti@gmail.com**
 
