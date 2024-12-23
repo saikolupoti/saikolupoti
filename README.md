@@ -5,14 +5,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikolupoti&label=Profile%20views&color=0e75b6&style=flat" alt="saikolupoti" /> </p>
 
 - 🌱 I’m currently learning **React, PyTorch**
+- 🎓 Pursuing B.Tech in **Computer Science at VIT Vellore, exploring cutting-edge technologies and real-world problem-solving**
+- 🤖 Developed a **Speech Emotion Recognition** system using Deep Learning (CNN + LSTM), classifying emotions with high accuracy.
 
 - 💬 Ask me about **Machine Learning, Frontend Development, SQL**
-
+- 📊 Proficient in **Data Analytics with Power BI certification**
+- 🌟 Let’s build something amazing together!
 - 📫 How to reach me **saikolupoti@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RYVhKv-EwVpIcRZJhnMXshHGaQ1nDV0D/view?usp=sharing](https://drive.google.com/file/d/1RYVhKv-EwVpIcRZJhnMXshHGaQ1nDV0D/view?usp=sharing)
 
 - ⚡ Fun fact **I’m equally passionate about coding and biryani.**
+- 🏸 When I’m not coding, you’ll find me **playing badminton🏆, or indulging in biryani 🍛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
