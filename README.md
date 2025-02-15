@@ -14,7 +14,7 @@
 - 🌟 Let’s build something amazing together!
 - 📫 How to reach me **saikolupoti@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RYVhKv-EwVpIcRZJhnMXshHGaQ1nDV0D/view?usp=sharing](https://drive.google.com/file/d/1RYVhKv-EwVpIcRZJhnMXshHGaQ1nDV0D/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13MWgOIvJOdu_bsI2o0LbuxQb3Sn1aSe_/view?usp=sharing)
 
 - ⚡ Fun fact **I’m equally passionate about coding and biryani.**
 - 🏸 When I’m not coding, you’ll find me **playing badminton🏆, or indulging in biryani 🍛**
